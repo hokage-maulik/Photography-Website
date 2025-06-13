@@ -1,0 +1,8 @@
+/* 
+.img-fluid {
+  transition: filter 0.4s ease;
+}
+
+.img-fluid:hover {
+  filter: grayscale(100%);
+} */

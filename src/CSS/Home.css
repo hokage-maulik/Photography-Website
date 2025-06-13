@@ -1,0 +1,25 @@
+.home-background {
+  background-image: url("https://kamatharjun.b-cdn.net/wp-content/uploads/2022/01/Indian-Wedding-Photography-LR-Arjun-Kamath.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  position: relative;
+  background-attachment: fixed;
+
+  } 
+
+.overlay-content {
+  color: white;
+  text-align: center;
+  padding: 20px 40px;
+  border-radius: 10px;
+} 
+
+
+
+
