@@ -44,6 +44,18 @@ export default function Contact() {
 
                         <button type="submit" className="btn btn-primary btn-lg">Send</button>
                     </form>
+                    <div class="text-center mt-5">
+                        <div className="text-center mt-5">
+                            <a href="https://www.facebook.com/groups/professionalphotographersclub/" className="mx-2" style={{ textDecoration: 'none', color: 'black' }}>Facebook</a>
+                            <a href="https://www.instagram.com/photographers.of.india/?hl=en/" className="mx-2" style={{ textDecoration: 'none', color: 'black' }}>Instagram</a>
+                            <a href="https://x.com/i/flow/login?redirect_after_login=%2Fsearch%3Fq%3D%2523photographer%26src%3Dhash/" className="mx-2" style={{ textDecoration: 'none', color: 'black' }}>Twitter</a>
+                        </div>
+
+                    </div>
+
+
+
+
                 </div>
 
                 <div className="col-md-6">
